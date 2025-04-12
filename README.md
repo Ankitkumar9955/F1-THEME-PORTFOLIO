@@ -30,17 +30,7 @@ Custom Fonts via F1 Regular Typeface
 📸 Screenshots
 (Insert screenshots here if you're uploading this project on GitHub)
 
-📁 File Structure
-bash
-Copy
-Edit
-/
-├── index.html            # Main HTML File
-├── f1-background.jpg     # Background Image
-├── profile.jpg           # Profile Image
-├── f1.jpg                # Logo Image
-└── README.md             # Project README (this file)
 
 📬 Connect With Me
-🔗 [LinkedIn](https://aadi5936.github.io/FERRARI-theme-Portfolio/portfolio.html#skills)
-💻 GitHub
+🔗 [LinkedIn](https://www.linkedin.com/in/ankit-kumar-sahu9955/)
+💻 [GitHub](https://github.com/Ankitkumar9955)
