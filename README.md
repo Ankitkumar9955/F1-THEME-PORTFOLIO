@@ -28,7 +28,8 @@ Custom Fonts via F1 Regular Typeface
 💻 Modern Design with smooth transitions, hover effects, and animated elements
 📸 Background Image + Custom Scrollbar to enhance the F1 vibe
 📸 Screenshots
-(Insert screenshots here if you're uploading this project on GitHub)
+
+![WhatsApp Image 2024-11-03 at 11 50 20_b8292941](https://github.com/user-attachments/assets/bf7899cd-478a-4359-81e2-dcf4e8a2bc9e)
 
 
 📬 Connect With Me
