@@ -1,5 +1,3 @@
-@F1-Themed Developer Portfolio
-
 Welcome to my Formula 1-Inspired Personal Portfolio Website!
 This project creatively presents my profile as a racing-themed experience — because in the tech world, performance matters just like on the track. 🏁
 
