@@ -4,6 +4,9 @@ This project creatively presents my profile as a racing-themed experience — be
 [View the Website](https://ankitkumar9955.github.io/F1-THEME-PORTFOLIO/p.html)
 
 
+
+
+
 💡 Concept & Inspiration
 The portfolio is inspired by the high-octane, fast-paced world of Formula 1. Each section is modeled to reflect the intensity, precision, and style of a Grand Prix event — from the "Technical Specs" (skills) to the "Driver Profile" (bio).
 You don’t just scroll — you race through the journey of who I am as a developer.
@@ -15,6 +18,8 @@ Custom F1 Theme Styling
 Font Awesome (Social Icons)
 Responsive Design for desktop and mobile
 Custom Fonts via F1 Regular Typeface
+
+
 
 🎯 Features
 🔥 Hero Section with Driver Number, Name, and Stats
